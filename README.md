@@ -1,4 +1,4 @@
-# Hi, I'm Davit Tavadze 👋
+# # Hi, I'm [Davit Tavadze](https://charlses.com)  👋
 
 ## Full-Stack Web Developer
 
