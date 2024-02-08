@@ -13,11 +13,9 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer with a k
 
 ### 💼 Projects
 
-Here are some projects I'm particularly proud of:
+Here is the project I'm Most proud off!
 
 - **full-stack-auth**: Full stack authentication, using AuthJs(v5), working with jwt tokens and role based auth!
-- **Project Name**: Description of what the project does and the technologies used.
-- **Project Name**: Description of what the project does and the technologies used.
 
 Feel free to check them out and provide feedback!
 
