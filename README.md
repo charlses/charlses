@@ -29,8 +29,8 @@ I believe in lifelong learning and continuously update my skills to keep up with
 
 I love connecting with fellow developers and tech enthusiasts. Here's how you can reach me:
 
-- **LinkedIn**: [[My LinkedIn profile:](https://www.linkedin.com/in/davit-tavadze/)](#)
-- **Email**: [My email:](mailto:davit.tavadzee@gmail.com)
+- **LinkedIn**: [[My LinkedIn profile](https://www.linkedin.com/in/davit-tavadze/)](#)
+- **Email**: [My email](mailto:davit.tavadzee@gmail.com)
 
 Thank you for visiting my profile. Let's collaborate and make something amazing!
 
