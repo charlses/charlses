@@ -49,26 +49,24 @@ Day-to-day I'm shipping protos → engine → SDK → UI → docs in small incre
 
 ### GitHub stats
 
-<table>
-  <tr>
-    <td valign="top">
-      <img alt="Davit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=charlses&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-    </td>
-    <td valign="top">
-      <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlses&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-    </td>
-  </tr>
-</table>
-
-<p>
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=charlses&hide_border=true&theme=tokyonight" />
+<p align="center">
+  <a href="https://github.com/charlses">
+    <img height="170" alt="Davit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=charlses&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight&rank_icon=github&hide=issues,contribs&card_width=400" />
+  </a>
+  <a href="https://github.com/charlses">
+    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlses&layout=compact&hide_border=true&hide_title=true&theme=tokyonight&langs_count=8&card_width=340" />
+  </a>
 </p>
 
 <p align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=charlses&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=charlses&hide_border=true&theme=tokyonight&card_width=760" />
 </p>
 
-<p>
+<p align="center">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=charlses&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
+
+<p align="right">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=charlses&style=flat-square&color=7aa2f7&label=Profile+views" />
 </p>
 
