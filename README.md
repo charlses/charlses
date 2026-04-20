@@ -52,7 +52,7 @@ Day-to-day I'm shipping protos → engine → SDK → UI → docs in small incre
 <table>
   <tr>
     <td valign="top">
-      <img alt="Davit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=charlses&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+      <img alt="Davit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=charlses&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" />
     </td>
     <td valign="top">
       <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlses&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
@@ -61,7 +61,7 @@ Day-to-day I'm shipping protos → engine → SDK → UI → docs in small incre
 </table>
 
 <p>
-  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=charlses&hide_border=true&theme=tokyonight" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=charlses&hide_border=true&theme=tokyonight" />
 </p>
 
 <p>
