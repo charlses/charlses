@@ -64,9 +64,12 @@ Day-to-day I'm shipping protos → engine → SDK → UI → docs in small incre
   <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=charlses&hide_border=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=charlses&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" />
+</p>
+
 <p>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=charlses&style=flat-square&color=7aa2f7&label=Profile+views" />
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=charlses&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
 </p>
 
 ---
