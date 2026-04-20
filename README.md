@@ -51,10 +51,10 @@ Day-to-day I'm shipping protos → engine → SDK → UI → docs in small incre
 
 <p align="center">
   <a href="https://github.com/charlses">
-    <img height="170" alt="Davit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=charlses&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight&rank_icon=github&hide=issues,contribs&card_width=400" />
+    <img height="165" alt="Davit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=charlses&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight&rank_icon=github&card_width=420" />
   </a>
   <a href="https://github.com/charlses">
-    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlses&layout=compact&hide_border=true&hide_title=true&theme=tokyonight&langs_count=8&card_width=340" />
+    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlses&layout=compact&hide_border=true&hide_title=true&theme=tokyonight&langs_count=10&card_width=340" />
   </a>
 </p>
 
